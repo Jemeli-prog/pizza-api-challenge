@@ -1,8 +1,8 @@
-# 🍕 Pizza Restaurant API
+#  Pizza Restaurant API
 
 This is a RESTful API for a Pizza Restaurant built with Flask, following the Model-View-Controller (MVC) pattern.
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 Follow these steps to set up and run the API locally.
 
@@ -42,7 +42,7 @@ python server/app.py
 
 The API will be running on `http://127.0.0.1:5555`.
 
-## 🧱 Project Structure
+##  Project Structure
 
 The project follows an MVC pattern:
 
@@ -257,10 +257,6 @@ Content-Type: application/json
 
 ## 🔎 Testing with Postman
 
-1.  **Open Postman**.
-2.  Click on **Import** (usually located in the top left corner).
-3.  Select **Upload Files** and choose the `challenge-1-pizzas.postman_collection.json` file from the project root directory.
-4.  Once imported, you will see the "Pizza Restaurant API" collection.
-5.  Expand the collection and its folders to see the individual requests.
-6.  Ensure your Flask API is running (`python server/app.py`).
-7.  Run each request in the Postman collection to test the API endpoints.
+1.  **Open Postman**
+Ensure your Flask API is running (`python server/app.py`)
+Run each request in the Postman collection to test the API endpoints
